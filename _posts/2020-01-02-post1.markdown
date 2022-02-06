@@ -1,13 +1,39 @@
 ---
 layout: post
-title: post-sample
+title: git 명령어 정리
 date: 2020-01-02 19:20:23 +0900
-category: sample
+category: git
 ---
-# post-sample
-> Hello!
+# git blog 명령어 정리
+ |
+#### 1 ) git status
+#####   --> 현재 파일들의 상태 확인
 
-This is code
-```ruby
-print 'hello world'
+
+#### 2 ) git add .
+#####   --> 새로운 파일 모두 정리
+
+
+#### 3 ) git commit -m"커밋 제목(설명)"
+#####   --> 커밋하기 (git에 저장)
+
+
+#### 4 ) git push origin master
+#####   --> origin의 내용이 master에 복사 된다. 
+ |
+
+
+
+# git bash에서 사용
+
+
+### 아래처럼 코드 사용
+```r
+$ git add .
+
+$ git status
+
+$ git push origin master
+
+$ git commit -m"example commit"
 ```

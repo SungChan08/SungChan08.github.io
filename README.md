@@ -22,13 +22,13 @@ date_format: "%Y-%M-%D" //and date format.
 
 ### Sns
 #### facebook
-[페북]](https://www.facebook.com/minecraftwond)
+[페북](https://www.facebook.com/minecraftwond)
 
 
 
 
 
-## 내가 듣고 싶어서 만들 노래 모음
+## 내가 듣고 싶어서 만든 노래 모음
 
 ### 조광일
 #### 호우주의
