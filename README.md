@@ -4,16 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## blog Leesc
+> 이 세상 블로그가 아니닷!! -이성찬
 
 ### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+- 깔끔하징
+- 정리 잘 돼 있지!
+- 위대하신 성찬 님이 관리하시지!
+- 페북 --> [페이스북](https://www.facebook.com/minecraftwond)
 
 ### _config.yml
 > Code block will look like this.
