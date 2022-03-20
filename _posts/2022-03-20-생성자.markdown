@@ -59,3 +59,31 @@ class CarTest {
 
 
 ```
+
+
+
+# 생성자 오버로딩
+
+# 생성자 오버로딩이란?
+### 생성자를 두 개 이상 구현하는 경우를 생성자 오버로딩이라고 부른다.
+
+### Student 클래스 안에 매개 변수가 다른 동일한 이름의 생성자를 생성하였다.
+```r
+public class Student {
+	
+	public int studentID; 
+	public String studentName; 
+	public String address; 
+	
+	public Student(int id, String name) {
+		studentID = id;
+		studentName = name;
+	}
+	
+	public Student(String name) {
+		studentName = name;
+	}
+ }
+
+```
+
