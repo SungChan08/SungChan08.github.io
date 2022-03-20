@@ -17,16 +17,15 @@ category: springboot
 [이니셜라이즈](https://start.spring.io/)
 
 ### - project
-#### 
+#### Gradle project
 
 ### - language
-#### 
+#### Java
 
 ### spring boot
-#### 
+#### 2.6.4
 
 ## project metadata
-
 ### group -> com.example
 ### artifact -> demo
 ### name -> demo
